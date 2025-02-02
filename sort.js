@@ -3,4 +3,4 @@ a=a.sort();
 console.log(a);
 let b=['c','c++','html','javascript','python','java']
 b.reverse();
-indexOf('javascript');
+b.indexOf('javascript');
